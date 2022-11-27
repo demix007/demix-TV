@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# BLASE-TV
+# DEMIX-TV
 
 Blase TV is the world's most popular and authoritative source for movie, TV and celebrity content. <br>Find ratings and reviews for the newest movie and TV shows.
 
@@ -29,7 +29,7 @@ Here is a [link] (https://blase147.github.io/blase-tv/dist/index.html) to the li
 
 ### Steps
 
-- To clone the project select the desired directory in cmd and run: `git clone https://github.com/blase147/blase-tv.git`
+- To clone the project select the desired directory in cmd and run: `git clone git@github.com:demix007/demix-TV.git`
 - Install npm dependencies: `npm install`
 - To check the live preview: `npm run start`
 - For StyLint test, run: `npx stylelint "**/*.{css,scss}"`
@@ -45,6 +45,10 @@ Here is a [link] (https://blase147.github.io/blase-tv/dist/index.html) to the li
 
 ## Authors
 
+👤 **Ayodeji Abidemi**
+
+[GitHub](https://github.com/demix007) | [Twitter](https://twitter.com/dat_dope_demix) | [LinkedIn](https://linkedin.com/in/ayodeji-abidemi-b76935218)
+
 👤 **Umer Zia**
 
 [GitHub](https://github.com/UmerZia) | [Twitter](https://twitter.com/ChukwumaMosanya) | [LinkedIn](https://linkedin.com/in/umer-zia-30906a183/)
@@ -53,16 +57,11 @@ Here is a [link] (https://blase147.github.io/blase-tv/dist/index.html) to the li
 
 [GitHub](https://github.com/blase147) | [Twitter](https://twitter.com/DevUmerZia) | [LinkedIn](https://www.linkedin.com/in/chukwuma-mosanya-34645388)
 
-👤 **Ayodeji Abidemi**
-
-[GitHub](https://github.com/demix007) | [Twitter](https://twitter.com/dat_dope_demix) | [LinkedIn](https://linkedin.com/in/ayodeji-abidemi-b76935218)
-
-
 # 🤝 Contributing
 
 - Contributions, issues, and feature requests are welcome!
 
-  Feel free to check the issues page.https://github.com/blase147/blase-tv/issues
+  Feel free to check the issues page. https://github.com/issues
 
 ## Show your support
 
