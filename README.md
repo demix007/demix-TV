@@ -20,7 +20,6 @@ Here is a [link] (https://blase147.github.io/blase-tv/dist/index.html) to the li
 ## Technologies used 
 - GitHub 
 - Visual Studio Code 
-- GitBash
 - Webpack
 
 ## Getting Started
