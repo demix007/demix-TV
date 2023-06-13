@@ -24,7 +24,7 @@ Here is a [link] (https://blase147.github.io/blase-tv/dist/index.html) to the li
 
 ## Getting Started
 
-> In order to use the project files, Kindly follow these steps:
+> In order to use the project files, Kindly follow the steps below:
 
 ### Steps
 
